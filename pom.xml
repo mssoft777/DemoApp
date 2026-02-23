@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.app</groupId>
 	<artifactId>JavaBasicApp</artifactId>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<name>JavaBasicApp</name>
 	<description>JavaBasicApp</description>
 	<url/>
